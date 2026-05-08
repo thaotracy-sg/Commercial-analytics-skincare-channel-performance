@@ -4,7 +4,8 @@
 ---
 
 ## 🖼️ Analysis Visualization
-![Skincare Retail Analysis](assets/Data-Visualization_Skincare.jpeg)
+![Skincare Retail Analysis](assets/Data%20Visualization_Skincare.jpeg)
+
 ---
 
 ## 🎯 Executive Summary

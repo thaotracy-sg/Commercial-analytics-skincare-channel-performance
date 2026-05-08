@@ -3,8 +3,8 @@
 
 ---
 
-## 🖼️ Dashboard Preview
-![Skincare Dashboard](./assets/Data Visualization_Skincare.jpeg)
+## 🖼️ Analysis Visualization
+![Skincare Retail Analysis](./assets/Data Visualization_Skincare.jpeg)
 
 ---
 
@@ -17,8 +17,8 @@ Analysis of 2025 performance for a skincare brand across **Guardian, Watsons, an
 | Metric | Purpose | Target / Logic |
 | :--- | :--- | :--- |
 | **Sell-in vs Sell-out** | Channel Flow | Tracks trade vs. consumer demand |
-| **S-in/S-out Ratio** | Health Check | **Healthy Range:** ~1.0 (Balanced) |
-| **Stock Coverage** | Inventory | **Goal:** 50–60 Days |
+| **S-in/S-out Ratio** | Health Check | **Healthy Range:** 0.95-1.05 (Balanced) |
+| **Stock Coverage** | Inventory | **Goal:** 45–60 Days |
 
 ---
 

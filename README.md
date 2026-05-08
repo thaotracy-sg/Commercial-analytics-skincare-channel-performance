@@ -4,7 +4,7 @@
 ---
 
 ## 🖼️ Analysis Visualization
-![Skincare Retail Analysis](assets/Data%20Visualization_Skincare.jpeg)
+![Skincare Retail Analysis](assets/Data_Visualization_Skincare.jpeg)
 
 ---
 
